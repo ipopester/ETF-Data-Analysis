@@ -1,6 +1,6 @@
 # ETF-Data-Analysis
 
-This is a tool is designed to evaluate the potential for investments in the housing rental market in the city of San Francisco, California.  The analysis leverages the power of data analysis visualization using python's PyViz packages. Several key variables were analyzed over a period of six years (2010-2016), including the prices per square foot by year and gross rent for each neighborhood in the city. The results are presented in several visualally appealing, interactive charts that can be manipulated by the user. The outcome of the analysis is a recommendation regarding the potential for a 'one-click' service for investors to purchase a property and rent it for a steady income stream. 
+This is a tool is designed to evaluate the potential for an investment in an ETF.  The analysis leverages the power of data analysis visualization using python's PyViz packages and Voila. Several key variables were analyzed for both individual stocks and the basket of stocks (ETF) over a period of four years (2016-2020), including the average annualized returns and cumulative returns. The results are presented in several visualally appealing, interactive charts that can be manipulated by the user. The outcome of the analysis is a recommendation regarding the potential for a 'one-click' service for investors to purchase a property and rent it for a steady income stream. 
 
 ## Technologies
 
@@ -34,13 +34,12 @@ Installation of PyViz and Voila provides access to several data visualation tool
 ___
     
     
-## Examples of Visualizations
+## Examples of Visualizations in Voila
 
-![Data Visualization 1](https://raw.githubusercontent.com/ipopester/SF-Property-Market-Analysis/main/Images/Plot_1_SF_Market_Analysis.png)
+![Data Visualization 1](https://raw.githubusercontent.com/ipopester/ETF-Data-Analysis/main/Images/Voila_SS_1_1.png)
 
-![Data Visualization 2](https://raw.githubusercontent.com/ipopester/SF-Property-Market-Analysis/main/Images/Plot_2_SF_Market_Analysis.png)
+![Data Visualization 2](https://raw.githubusercontent.com/ipopester/ETF-Data-Analysis/main/Images/Voila_SS_2_2.png)
 
-![Data Visualization 3](https://raw.githubusercontent.com/ipopester/SF-Property-Market-Analysis/main/Images/Plot_3_SF_Market_Analysis.png)
 
 ___
 
